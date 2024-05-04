@@ -8,5 +8,7 @@
 # tst =['a','b','c','d','e']
 # if len(tst) < 6 and len(tst) > 0:
 #     print("true")
-# else:
-print("false")
+# # else:
+# print("false")
+
+
